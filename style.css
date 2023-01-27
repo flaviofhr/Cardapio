@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+
+
+h1 {
+    color: blue;
+        border: 1px  solid red;
+        margin: 20px;
+        padding: 60px;
+        font-family: 'Sofia Sans', sans-serif;
+}
+strong {
+    color:blueviolet;
+    font-family: 'Sofia Sans', sans-serif;
+}
+@import url();
